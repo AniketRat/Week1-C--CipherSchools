@@ -1,4 +1,4 @@
-cal.cpp
+//cal.cpp
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -19,8 +19,7 @@ int main() {
 
 
 //hello.cpp
-// #include <iostream>
-#include<bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 
